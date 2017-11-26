@@ -16,7 +16,9 @@ Here is just some simple added text, because pasting "Lorem ipsum" is boring.
 
 ## How to contribute
 
-## Copyright
+Please fork and issue Pull Requests for review.
+
+### Copyright
 
 Copyright 2017 by somebody
 
