@@ -15,3 +15,8 @@ As described above, the main purpose is tp provide simple examples for Git train
 Here is just some simple added text, because pasting "Lorem ipsum" is boring.
 
 ## How to contribute
+
+## Copyright
+
+Copyright 2017 by somebody
+
