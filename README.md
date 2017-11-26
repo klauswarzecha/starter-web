@@ -10,4 +10,8 @@ This is an example to show the different parts of a git repository and various c
 
 ## Deployment
 
+As described above, the main purpose is tp provide simple examples for Git training demos.
+
+Here is just some simple added text, because pasting "Lorem ipsum" is boring.
+
 ## How to contribute
